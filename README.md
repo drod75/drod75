@@ -35,8 +35,6 @@ WIP
   ### Programming Languages
   WIP
 
-<br/>
-
   ### Data
   WIP
 
