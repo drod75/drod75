@@ -19,7 +19,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/drod75"><img alt="David's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=drod75&custom_title=David%20Rodriguez's%20Contribution%Graph&theme=react-dark" /></a>
+	<a href="https://github.com/drod75"><img alt="David's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=drod75&custom_title=David%20Rodriguez's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
