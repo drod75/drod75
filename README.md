@@ -33,7 +33,9 @@ I’m currently a third-year student at Brooklyn College, pursuing a major in Co
 <br/>
 
 ## Achievements
-WIP
+* CUNY TECH PREP Cohort 10 Member
+* CODEPATH Spring 2025 Technical Interview Prep Student
+* Brooklyn College Black and Latino Male Initiative Student
 
 <br/>
 
